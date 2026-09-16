@@ -1,8 +1,11 @@
+ipykernel
 pandas
 numpy
 scikit-learn
-tesnorflow
+tensorflow==2.21.0
 keras
+scikeras
 TensorBoard
-pickle
 matplotlib
+gensim==4.3.3
+
