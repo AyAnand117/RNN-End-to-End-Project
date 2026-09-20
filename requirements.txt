@@ -8,4 +8,5 @@ scikeras
 TensorBoard
 matplotlib
 gensim==4.3.3
+streamlit
 
